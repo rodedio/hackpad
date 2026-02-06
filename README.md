@@ -14,3 +14,7 @@ This is the circuit board. I still had to make a few minor adjustments to the sc
 <img width="1208" height="1364" alt="image" src="https://github.com/user-attachments/assets/de94d1b0-ef62-40bb-8254-3986ebc24dcc" />
 <img width="748" height="914" alt="image" src="https://github.com/user-attachments/assets/be7317c7-1149-43fc-ae18-0024f49bdb2b" />
 <img width="682" height="489" alt="image" src="https://github.com/user-attachments/assets/6b7a2d83-743d-4791-9f8c-e9d554b4623f" />
+
+#case 
+The case is finished. Once I have the PCB, I'll make the final adjustments so everything fits.
+
