@@ -1,6 +1,11 @@
 # hackpad
 a hachpad how i like it
 
+# case
+<img width="1348" height="810" alt="image" src="https://github.com/user-attachments/assets/755bed90-5d45-41ee-b9c0-0eea8c0c64c3" />
+<img width="1162" height="904" alt="image" src="https://github.com/user-attachments/assets/9342c30e-5b09-4eca-98aa-c9fb4d4db265" />
+
+
 # scamatic
 a hachpad how i like it
 
