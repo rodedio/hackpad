@@ -10,7 +10,8 @@ a hachpad how i like it
 a hachpad how i like it
 
 This is my Scapatic for my hackpad. I've changed it three times, but this is what I finally came up with and went with. I'm going for a Matrix-style button layout. The socket will be connected to an OLED screen.
-<img width="960" height="624" alt="image" src="https://github.com/user-attachments/assets/05d6a94d-eb58-41c9-9a93-4d43289f033d" />
+<img width="1690" height="1019" alt="image" src="https://github.com/user-attachments/assets/35c62c68-251c-4ce6-9666-d4675fbb20b6" />
+
 
 # pcb
 This is the circuit board. I still had to make a few minor adjustments to the schematic. I added an extra knob. The rotary encoder adjusts the volume on my computer and displays it through a menu on the OLED screen. Allis included a 3D model so I can make it look better in 3D.
