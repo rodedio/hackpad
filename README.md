@@ -2,8 +2,9 @@
 a hachpad how i like it
 
 # case
-<img width="1348" height="810" alt="image" src="https://github.com/user-attachments/assets/755bed90-5d45-41ee-b9c0-0eea8c0c64c3" />
-<img width="1162" height="904" alt="image" src="https://github.com/user-attachments/assets/9342c30e-5b09-4eca-98aa-c9fb4d4db265" />
+<img width="1015" height="647" alt="aio" src="https://github.com/user-attachments/assets/74cf2c0b-62bf-4da6-a495-be9cfc4e139f" />
+<img width="842" height="571" alt="case" src="https://github.com/user-attachments/assets/6c92915b-0d88-4715-8143-21b6d4db072e" />
+
 
 
 # scamatic
