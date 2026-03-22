@@ -9,7 +9,7 @@ a hachpad how i like it
 a hachpad how i like it
 
 This is my Scapatic for my hackpad. I've changed it three times, but this is what I finally came up with and went with. I'm going for a Matrix-style button layout. The socket will be connected to an OLED screen.
-<img width="1690" height="1019" alt="image" src="https://github.com/user-attachments/assets/35c62c68-251c-4ce6-9666-d4675fbb20b6" />
+<img width="871" height="652" alt="image" src="https://github.com/user-attachments/assets/99879896-fbc0-42fe-843f-ead2c42f0a9b" />
 
 
 # pcb
